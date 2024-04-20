@@ -497,16 +497,16 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -3.0441110013415678,
+        "pitch": 0.3601599007276519,
+        "fov": 1.5396019870895838
       },
       "linkHotspots": [
         {
           "yaw": -3.0588002310074085,
           "pitch": 0.11725150002090423,
           "rotation": 0,
-          "target": "14-pitro-korytarz-3"
+          "target": "7-korytarz-3"
         }
       ],
       "infoHotspots": []
@@ -535,9 +535,9 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -0.6510689887648251,
+        "pitch": 0.08979071474370848,
+        "fov": 1.5396019870895838
       },
       "linkHotspots": [
         {
