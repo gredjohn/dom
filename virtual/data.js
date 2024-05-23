@@ -30,27 +30,27 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.49424352086307977,
-          "pitch": -0.021789025879083823,
+          "yaw": 0.39424352086307977,
+          "pitch": 0.051789025879083823,
           "rotation": 0,
           "target": "2-jadalnia"
         },
         {
-          "yaw": 0.1580411162566442,
+          "yaw": -0.0580411162566442,
           "pitch": 0.06593809754732405,
           "rotation": 0,
           "target": "4-korytarz"
         },
         {
           "yaw": 2.6700299686457285,
-          "pitch": 0.42339796948699693,
+          "pitch": 0.12339796948699693,
           "rotation": 0,
           "target": "1-taras"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -1.9809097983579633,
+          "yaw": -2.5809097983579633,
           "pitch": -0.09425183325405584,
           "title": "Kominek",
           "text": "Duży kominek z rozprowadzeniem gorącego powietrza"
